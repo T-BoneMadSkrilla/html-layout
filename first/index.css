@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.top{
+    background: grey;
+    height: 15vw;
+}
+
+.leftSide{
+width:100vw;
+height:1000px;
+background: lightgray;
+}
+
+
+.middle{background:white;
+    width: 75vw;
+    height: 75vw;
+   margin: 0px 0px 25vh 25vh;
+
+}
+
+.bottom{
+    background: black;
+    height: 15vw;
+    width: 100%;
+
+}
